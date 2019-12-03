@@ -25,4 +25,4 @@ The idea is to create a wrist band which has the capability to sense the conditi
 ## Opensource project
 This is not a project with commercial objective.
 We want to build a world in which every individual is safe and happy. So, please join us and contribute to this project.
-Lets make our lives safe and secure. Lets build a better world for our next generations.
+Let's make our lives safe and secure. Lets build a better world for our next generations.
