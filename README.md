@@ -7,7 +7,7 @@ A modern rakhi.
 
 When a person is in need,
 they may not be in a condition to use our mobile.
-their may scream may not reach the people who can help them.
+their scream may not reach the people who can help them.
 they may not even think sensibly to take an action.
 
 We want to help them, and want to provide a simple revolutionising solution to help them.
